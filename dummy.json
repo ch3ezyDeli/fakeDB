@@ -1,0 +1,162 @@
+[
+    {
+      "id": 0,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 54707,
+      "zipTo": 52859
+    },
+    {
+      "id": 1,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 52795,
+      "zipTo": 66842
+    },
+    {
+      "id": 2,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 61607,
+      "zipTo": 89394
+    },
+    {
+      "id": 3,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 87705,
+      "zipTo": 86018
+    },
+    {
+      "id": 4,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 58173,
+      "zipTo": 78736
+    },
+    {
+      "id": 5,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 82459,
+      "zipTo": 76728
+    },
+    {
+      "id": 6,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 66257,
+      "zipTo": 82750
+    },
+    {
+      "id": 7,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 77561,
+      "zipTo": 81954
+    },
+    {
+      "id": 8,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 68652,
+      "zipTo": 68512
+    },
+    {
+      "id": 9,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 84776,
+      "zipTo": 60000
+    },
+    {
+      "id": 10,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 71464,
+      "zipTo": 71981
+    },
+    {
+      "id": 11,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 72970,
+      "zipTo": 54613
+    },
+    {
+      "id": 12,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 82088,
+      "zipTo": 69252
+    },
+    {
+      "id": 13,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 57229,
+      "zipTo": 70064
+    },
+    {
+      "id": 14,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 84960,
+      "zipTo": 57740
+    },
+    {
+      "id": 15,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 65574,
+      "zipTo": 50547
+    },
+    {
+      "id": 16,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 68552,
+      "zipTo": 67018
+    },
+    {
+      "id": 17,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 51265,
+      "zipTo": 78911
+    },
+    {
+      "id": 18,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 82004,
+      "zipTo": 58627
+    },
+    {
+      "id": 19,
+      "status": "enable",
+      "store": "Default KR Store",
+      "area": "No Shipping - Jeju Area No Shipping - Jeju Area No Shipping - Jeju Area,",
+      "zipFrom": 57181,
+      "zipTo": 69901
+    }
+  ]
